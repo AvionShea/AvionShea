@@ -4,7 +4,7 @@ Just a skilled Full-stack Software Engineer trying to make the world a better pl
 
 ---------------------------------------------------------------------------------------------------------------------------------
 
-⚡️ A quick introduction
+⚡️ A quick intro
 
 - 📑 I’m currently working on my personal projects.
 
@@ -12,7 +12,7 @@ Just a skilled Full-stack Software Engineer trying to make the world a better pl
 
 - 💼 I'm open to full-time work.
 
-- 💚 I enjoy going to the music regularly, taking nature walks, drinking tea, and playing video games.
+- 💚 I enjoy listening to music regularly, taking nature walks, drinking tea, and playing video games.
 
 - 🥸Fun-Fact: My first year of college was spent in a double-major of culinary arts and baking and pastry. 
 
@@ -54,6 +54,6 @@ Just a skilled Full-stack Software Engineer trying to make the world a better pl
 
 📈 GitHub Stats
 
-![Tricia's GitHub stats](https://github-readme-stats.vercel.app/api?username=avionshea&theme=solarized-light&show_icons=true)
+![Avion's GitHub stats](https://github-readme-stats.vercel.app/api?username=avionshea&theme=solarized-dark&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avionshea&layout=donut)](https://github.com/avionshea/github-readme-stats)
