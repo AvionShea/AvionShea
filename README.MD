@@ -18,7 +18,7 @@ Just a skilled Full-stack Software Engineer trying to make the world a better pl
 
 ---------------------------------------------------------------------------------------------------------------------------------
 
-🤝🏾 Connect, Follow, Subscribe
+🤝🏾 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avion-cobb/)
 
