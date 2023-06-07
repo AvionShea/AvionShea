@@ -22,8 +22,6 @@ Just a skilled Full-stack Software Engineer trying to make the world a better pl
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avion-cobb/)
 
-[![Gmail](https://img.shields.io/badge/Gmail-729C68?style=for-the-badge&logo=gmail&logoColor=white)](mailto:avioncobb@gmail.com?subject=Greetings%20Avion!)
-
 ---------------------------------------------------------------------------------------------------------------------------------
 
 💻 Languages, Frameworks, Tools
@@ -54,6 +52,8 @@ Just a skilled Full-stack Software Engineer trying to make the world a better pl
 
 📈 GitHub Stats
 
-![Avions's GitHub stats](https://github-readme-stats.vercel.app/api?username=avionshea&theme=solarized-dark&show_icons=true)
+![AvionShea's Stats](https://github-readme-stats.vercel.app/api?username=AvionShea&theme=outrun&show_icons=true&hide_border=true&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avionshea&layout=donut)](https://github.com/avionshea/github-readme-stats)
+![AvionShea's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AvionShea&theme=outrun&hide_border=true)
+
+![AvionShea's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AvionShea&theme=outrun&show_icons=true&hide_border=true&layout=compact)
