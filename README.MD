@@ -14,7 +14,7 @@ Just a skilled Full-stack Software Engineer trying to make the world a better pl
 
 - 💚 I enjoy listening to music regularly, summer night driving, taking nature walks, drinking tea, and playing video games.
 
-- 🥸Fun-Fact: My first year of college was spent in a double-major of culinary arts and baking and pastry. 
+- 🤪 Fun-Fact: My first year of college was spent in a double-major of culinary arts and baking and pastry. 
 
 ---------------------------------------------------------------------------------------------------------------------------------
 
