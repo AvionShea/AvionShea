@@ -6,7 +6,7 @@ Just a developing Full-stack Software Engineer trying to make the world a better
 
 ⚡️ A quick introduction
 
-- 📑 I’m currently working on my personal projects.
+- 📑 I’m currently working on personal projects and skills' improvment.
 
 - 🌱 I’m currently learning JavaScript, MongoDB, Express, React, and Node.js. 
 
