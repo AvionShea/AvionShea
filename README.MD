@@ -10,7 +10,7 @@ Just a developing Full-stack Software Engineer trying to make the world a better
 
 - 🌱 I’m currently learning JavaScript, MongoDB, Express, React, and Node.js. 
 
-- 💼 I'm open to full-time work.
+- 💼 I'm open to full-time work && || apprenticeships.
 
 - 💚 I enjoy listening to music regularly, summer night driving, taking nature walks, drinking tea, and playing video games.
 
