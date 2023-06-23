@@ -1,20 +1,20 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=d963d3&width=435&lines=Welcome+to+my+domain!+%F0%9F%98%8A)](https://git.io/typing-svg)
 
-Just a developing Full-stack Software Engineer trying to make the world a better place, one line at a time. My love of astronomy, video games, music, and programming makes for unique combinations. I'm driven by a passion for continuous learning, a desire to help others, and the hopes of changing the world for the better.
+Just a developing Full-stack Software Engineer trying to make the world a better place, one line at a time. My love of astronomy, video games, music, and programming makes for unique combinations. I'm driven by a passion for continuous learning, a desire to help others, and the hope of changing the world for the better.
 
 ---------------------------------------------------------------------------------------------------------------------------------
 
 ⚡️ A quick introduction
 
-- 📑 I’m currently working on personal projects and skills' improvment.
+- 📑 I’m currently working on personal projects and skills improvement.
 
 - 🌱 I’m currently learning JavaScript, MongoDB, Express, React, and Node.js. 
 
-- 💼 I'm open to full-time work && || apprenticeships.
+- 💼 I'm open to full-time work && || apprenticeships/internships.
 
 - 💚 I enjoy listening to music regularly, summer night driving, taking nature walks, drinking tea, and playing video games.
 
-- 🤪 Fun-Fact: My first year of college was spent in a double-major of culinary arts and baking and pastry. 
+- 🤪 Fun Fact: My first year of college was spent in a double major in culinary arts and baking and pastry. 
 
 ---------------------------------------------------------------------------------------------------------------------------------
 
