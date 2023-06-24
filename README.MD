@@ -57,3 +57,5 @@ Just a Full-stack Software Engineer trying to make the world a better place, one
 ![AvionShea's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AvionShea&theme=outrun&hide_border=true)
 
 ![AvionShea's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AvionShea&theme=outrun&show_icons=true&hide_border=true&layout=compact)
+
+![AvionShea's Codewars Score](https://www.codewars.com/users/AvionShea/badges/large)
