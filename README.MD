@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=d963d3&width=435&lines=Welcome+to+my+domain!+%F0%9F%98%8A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=d963d3&width=435&lines=Welcome+to+my+little+piece+of+the+Universe!+%F0%9F%98%8A)](https://git.io/typing-svg)
 
 Just a Full Stack Software Engineer trying to make the world a better place, one line at a time. My love of astronomy, video games, music, and programming makes for unique combinations. I'm driven by a passion for continuous learning and a desire to help others.
 
