@@ -52,8 +52,6 @@ Self-proclaimed foodie, who happens to be a Full Stack Software Engineer trying 
 
 📈 GitHub Stats
 
-![AvionShea's Stats](https://github-readme-stats.vercel.app/api?username=AvionShea&theme=outrun&show_icons=true&hide_border=true&count_private=true)
-
 ![AvionShea's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AvionShea&theme=outrun&hide_border=true)
 
 ![AvionShea's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AvionShea&theme=outrun&show_icons=true&hide_border=true&layout=compact)
