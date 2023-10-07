@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=d963d3&width=435&lines=Welcome+to+my+domain!+%F0%9F%98%8A)](https://git.io/typing-svg)
 
-Self-proclaimed foodie, who happens to be a Full Stack Software Engineer trying to make the world a better place, one line of code at a time. My love of astronomy, video games, music, and programming makes for unique combinations. I'm driven by a passion for continuous learning and a desire to help others.
+Self-proclaimed foodie, who happens to be a Fullstack Software Engineer trying to make the world a better place, one line of code at a time. My love of astronomy, video games, music, and programming makes for unique combinations. I'm driven by a passion for continuous learning and a desire to help others.
 
 ---------------------------------------------------------------------------------------------------------------------------------
 
@@ -12,7 +12,7 @@ Self-proclaimed foodie, who happens to be a Full Stack Software Engineer trying 
 
 - 💼 I'm open to full-time work && || apprenticeships/internships.
 
-- 💚 I enjoy listening to music regularly, summer night driving, food, and playing video games.
+- 💚 I enjoy food, listening to music regularly, summer night driving, and playing video games.
 
 - 🤪 Fun Fact: My first year of college was spent double majoring in culinary arts, and baking & pastry. 
 
