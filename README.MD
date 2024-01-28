@@ -8,8 +8,6 @@ Self-proclaimed foodie, who happens to be a full-stack software engineer trying 
 
 - 📑 I’m currently working on personal projects and skills improvement.
 
-- 🌱 I’m currently learning JavaScript, MongoDB, Express, React, and Node.js. 
-
 - 💼 I'm open to full-time work && || apprenticeships/internships.
 
 - 💚 I enjoy food, listening to music regularly, summer night driving, and playing video games.
