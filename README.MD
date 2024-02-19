@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=d963d3&width=435&lines=Welcome+to+my+domain!+%F0%9F%98%8A)](https://git.io/typing-svg)
 
-Self-proclaimed foodie, who happens to be a full-stack software engineer trying to make the world a better place, one line of code at a time. My love of astronomy, video games, music, and programming makes for unique combinations. I'm driven by a passion for continuous learning and a desire to help others.
+Self-proclaimed foodie, who happens to be a full-stack software engineer trying to make the world a better place, one line of code at a time. My interests include astronomy, video games, music, and programming. I'm driven by a passion for continuous learning and a desire to help others.
 
 ---------------------------------------------------------------------------------------------------------------------------------
 
