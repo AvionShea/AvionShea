@@ -44,6 +44,8 @@ Self-proclaimed foodie, who happens to be a full-stack software developer trying
 
 <img style="padding:5px;" align="center" alt="MongoDB" width="35px" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png"/>
 
+<img style="padding:5px;" align="center" alt="Java" width="35px" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png"/>
+
 </p>
 
 ---------------------------------------------------------------------------------------------------------------------------------
