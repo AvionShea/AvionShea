@@ -6,7 +6,7 @@ Self-proclaimed foodie, who happens to be a full-stack software developer trying
 
 ⚡️ A quick introduction
 
-- 📑 I’m currently working on personal projects and skills improvement.
+- 📑 Currently enrolled as a STEM student in Computer Programming and Development with a concentration in Java.
 
 - 💼 I'm open to full-time work && || apprenticeships/internships.
 
