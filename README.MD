@@ -6,13 +6,15 @@ Self-proclaimed foodie, who happens to be a full-stack software developer trying
 
 ⚡️ A quick introduction
 
-- 📑 Currently enrolled as a STEM student in Computer Programming and Development with a concentration in Java.
+- 👩🏾‍🏫 Currently enrolled, as a STEM student, in Computer Programming and Development with a concentration in Java.
 
 - 💼 I'm open to full-time work && || apprenticeships/internships.
 
-- 💚 I enjoy food, listening to music regularly, summer night driving, and playing video games.
+- 💚 I enjoy food, astronomy, listening to music regularly, summer night driving, and playing video games.
 
-- 🤪 Fun Fact: My first year of college was spent double majoring in culinary arts, and baking & pastry. 
+- 👩🏾‍💻 National Society of Black Engineers collegiate member and Wake Invests in Women mentee.
+
+- 🥳 Fun Fact: My first year of college was spent double majoring in culinary arts, and baking & pastry. 
 
 ---------------------------------------------------------------------------------------------------------------------------------
 
