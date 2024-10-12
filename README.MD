@@ -6,7 +6,7 @@ Self-proclaimed foodie, who happens to be a software engineer trying to make the
 
 ⚡️ A quick introduction
 
-- 👩🏾‍🏫 Currently enrolled, as a STEM student, in Computer Programming and Development with a concentration in Java.
+- 👩🏾‍🏫 Currently enrolled in Computer Programming and Development with a concentration in Java.
 
 - 💼 I'm open to full-time work && || apprenticeships/internships.
 
