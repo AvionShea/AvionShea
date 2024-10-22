@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=d963d3&width=435&lines=Welcome+to+my+domain!+%F0%9F%98%8A)](https://git.io/typing-svg)
 
-Self-proclaimed foodie, who happens to be a software engineer trying to make the world a better place, one line of code at a time. My interests include astronomy, video games, music, and programming. I'm driven by a passion for continuous learning and a desire to help others.
+Culinary adventurer and software engineer, on a mission to make the world a little better, one line of code at a time. I'm passionate about exploring the universe (both through astronomy and video games!), diving into new music, and constantly expanding my programming skills. Always eager to learn and lend a helping hand, I thrive on turning curiosity into impact.
 
 ---------------------------------------------------------------------------------------------------------------------------------
 
