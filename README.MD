@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=d963d3&width=435&lines=Welcome+to+my+domain!+%F0%9F%98%8A)](https://git.io/typing-svg)
 
-Culinary adventurer and software engineer, on a mission to make the world a little better, one line of code at a time. I'm passionate about exploring the universe (both through astronomy and video games!), diving into new music, and constantly expanding my programming skills. Always eager to learn and lend a helping hand, I thrive on turning curiosity into impact.
+Culinary aficionado and software engineer, on a mission to make the world a little better, one line of code at a time. I'm passionate about exploring the universe (both through astronomy and video games!), diving into new music, and constantly expanding my programming skills. Always eager to learn and lend a helping hand, I thrive on turning curiosity into impact.
 
 ---------------------------------------------------------------------------------------------------------------------------------
 
