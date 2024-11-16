@@ -8,6 +8,8 @@ Culinary aficionado and software engineer, on a mission to make the world a litt
 
 - 👩🏾‍🏫 Currently enrolled in Computer Programming and Development with a concentration in Java.
 
+- 👩🏾‍🎓 1st generation college graduate with an Associate's degree in Advertising & Graphic Design and a Bachelor’s degree in Business Administration.
+
 - 💼 I'm open to full-time work && || apprenticeships/internships.
 
 - 💚 I enjoy food, astronomy, listening to music, summer night driving, and playing video games.
