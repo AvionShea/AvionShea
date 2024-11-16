@@ -10,7 +10,7 @@ Culinary aficionado and software engineer, on a mission to make the world a litt
 
 - 💼 I'm open to full-time work && || apprenticeships/internships.
 
-- 💚 I enjoy food, astronomy, listening to music regularly, summer night driving, and playing video games.
+- 💚 I enjoy food, astronomy, listening to music, summer night driving, and playing video games.
 
 - 👩🏾‍💻 National Society of Black Engineers collegiate member, Wake Invests in Women mentee, and TEC Innovate 2024 alumna.
 
