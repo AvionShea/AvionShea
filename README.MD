@@ -14,7 +14,7 @@ Culinary aficionado and software engineer, on a mission to make the world a litt
 
 - 💚 I enjoy food, astronomy, listening to music, summer night driving, and playing video games.
 
-- 👩🏾‍💻 National Society of Black Engineers member, Wake Invests in Women mentee, and TEC Innovate 2024 alumna.
+- 👩🏾‍💻 National Society of Black Engineers (NSBE) member, Wake Invests in Women mentee, and TEC Innovate 2024 alumna.
 
 - 🥳 Fun Fact: My first year of college was spent double majoring in culinary arts, and baking & pastry. 
 
