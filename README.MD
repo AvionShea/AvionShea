@@ -59,6 +59,4 @@ Culinary aficionado and software engineer, on a mission to make the world a litt
 
 📈 GitHub Stats
 
-![AvionShea's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AvionShea&theme=outrun&hide_border=true)
-
 ![AvionShea's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AvionShea&theme=outrun&show_icons=true&hide_border=true&layout=compact)
