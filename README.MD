@@ -30,7 +30,7 @@ Culinary aficionado and software engineer, on a mission to make the world a litt
 
 <p float="left">
 
-<img style="padding:5px;" align="center" alt="C++" width="35px" src="https://raw.githubusercontent.com/github/explore/main/topics/c++/c++.png"/>
+<img style="padding:5px;" align="center" alt="C++" width="35px" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png"/>
 
 <img style="padding:5px;" align="center" alt="Java" width="35px" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png"/>
 
