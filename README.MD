@@ -6,7 +6,7 @@ Culinary aficionado and software engineer, on a mission to make the world a litt
 
 ⚡️ A quick introduction
 
-- 👩🏾‍🏫 Currently enrolled in Computer Programming and Development with a concentration in Java.
+- 👩🏾‍🏫 Currently enrolled in Computer Programming and Development with a concentration in C++.
 
 - 👩🏾‍🎓 1st generation college graduate with an Associate's degree in Advertising & Graphic Design and a Bachelor’s degree in Business Administration.
 
@@ -29,6 +29,8 @@ Culinary aficionado and software engineer, on a mission to make the world a litt
 💻 Languages, Frameworks, Tools
 
 <p float="left">
+
+<img style="padding:5px;" align="center" alt="C++" width="35px" src="https://raw.githubusercontent.com/github/explore/main/topics/c++/c++.png"/>
 
 <img style="padding:5px;" align="center" alt="Java" width="35px" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png"/>
 
