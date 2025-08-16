@@ -61,4 +61,6 @@ Culinary aficionado and software engineer, on a mission to make the world a litt
 
 📈 GitHub Stats
 
+![](https://komarev.com/ghpvc/?username=avionshea&color=blueviolet&style=plastic)
+
 ![AvionShea's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AvionShea&theme=outrun&show_icons=true&hide_border=true&layout=compact)
