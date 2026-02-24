@@ -65,4 +65,4 @@ Culinary aficionado and software engineer, on a mission to make the world a litt
 
 ![](https://komarev.com/ghpvc/?username=avionshea&color=blueviolet&style=plastic)
 
-[![Avion's GitHub stats](https://github-readme-stats.vercel.app/api?username=avionshea)](https://github.com/avionshea/github-readme-stats)
+[![Avion's GitHub stats](https://github-stats-extended.vercel.app/api?username=avionshea)](https://github.com/stats-organization/github-stats-extended)
