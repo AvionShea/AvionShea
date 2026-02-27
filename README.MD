@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=d963d3&width=435&lines=Welcome+to+my+domain!+%F0%9F%98%8A)](https://git.io/typing-svg)
 
-Culinary aficionado and software engineer, on a mission to make the world a little better, one line of code at a time. I'm passionate about exploring the universe (both through astronomy and video games!), diving into new music, and constantly expanding my programming skills. Always eager to learn and lend a helping hand, I thrive on turning curiosity into impact.
+Culinary aficionado and embedded software engineer, on a mission to make the world a little better, one line of code at a time. I'm passionate about exploring the universe (both through astronomy and video games!), diving into new music, and constantly expanding my programming skills. Always eager to learn and lend a helping hand, I thrive on turning curiosity into impact.
 
 ---------------------------------------------------------------------------------------------------------------------------------
 
@@ -16,7 +16,7 @@ Culinary aficionado and software engineer, on a mission to make the world a litt
 
 - 👩🏾‍💻 National Society of Black Engineers (NSBE) member, Wake Invests in Women mentee, and TEC Innovate 2024 alumna.
 
-- 🥳 Fun Fact: My first year of college was spent double majoring in culinary arts, and baking & pastry. 
+- 🥳 Fun Fact: My first year of college was spent double-majoring in culinary arts and baking & pastry. 
 
 ---------------------------------------------------------------------------------------------------------------------------------
 
@@ -29,6 +29,8 @@ Culinary aficionado and software engineer, on a mission to make the world a litt
 💻 Languages, Frameworks, Tools
 
 <p float="left">
+
+<img style="padding:5px;" align="center" alt="C" width="35px" src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png"/>
 
 <img style="padding:5px;" align="center" alt="C++" width="35px" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png"/>
 
