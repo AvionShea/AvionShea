@@ -6,11 +6,11 @@ Culinary aficionado and embedded software engineer, on a mission to make the wor
 
 ⚡️ A quick introduction
 
+- 💼 Working as a Junior Software Developer.
+
 - 👩🏾‍🏫 Currently enrolled in Computer Programming and Development with a concentration in C++.
 
 - 👩🏾‍🎓 1st generation college graduate with an Associate's degree in Advertising & Graphic Design and a Bachelor’s degree in Business Administration.
-
-- 💼 Open to full-time work || apprenticeships/internships.
 
 - 💚 I enjoy food, astronomy, listening to music, summer night driving, and playing video games.
 
